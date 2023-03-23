@@ -21,7 +21,7 @@ The video is available on youtube: https://youtu.be/hiRtcq-5lN0 and
 
 
   <img src="figures/readme_exploration.gif" width = "400" height = "237"/>
-</p>
+</p> 
 
 ## Update
 
