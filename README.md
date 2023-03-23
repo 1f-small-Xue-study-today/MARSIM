@@ -31,7 +31,7 @@ Ubuntu 20.04 is also supported in ubuntu20 branch.
 
 **A new branch that merge with FUEL has been released in the fuel_ubuntu20 branch.**
 
-
+ 
 
 ## Prerequisited
 
